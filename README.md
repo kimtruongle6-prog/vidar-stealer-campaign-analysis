@@ -4,6 +4,14 @@ This project documents the technical investigation and behavioral analysis of a 
 
 ---
 
+**Author:** K. Le  
+**Affiliation:** Independent Research  
+**Research Focus:** Infostealer Analysis, Campaign Investigation, Threat Intelligence
+
+**Copyright:** © 2026 K. Le. Applies only to original materials authored for this project. Third-party materials remain subject to their respective licenses.
+
+---
+
 ## 📊 Campaign Summary
 Analysis of the `Malware_Pro_DB.db` dataset reveals a highly organized operation:
 
